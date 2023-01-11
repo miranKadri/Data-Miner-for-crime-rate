@@ -15,8 +15,11 @@ You are now ready to run the program and test it. We have a few options given to
 ![image](https://user-images.githubusercontent.com/110823714/211823702-09aeb830-8bfa-419f-b83f-95b1cf3c0dd2.png)
 
 
-3. Analysis: This mode does an extensive analysis on the dataset collected and can be only appied once you are done scraping the data. This process can be started by typing `python data_miner.py --analysis`. This will show data description, relation bewteen all the features with the target, based on the relations it will also give insights, plot out graphs for all the features, develop a predctive model and show the metrics of it, and finally plot a regression line through data points for all features to show if any predictive model could created or not.
+3. Analysis: This mode does an extensive analysis on the dataset collected and can be only appied once you are done scraping the data. This process can be started by typing `python data_miner.py --analysis`. This will show data description, relation bewteen all the features with the target, based on the relations it will also give insights, plot out graphs for all the features, develop a predctive model and show the metrics of it, and finally plot a regression line through data points for all features to show if any predictive model could created or not.<Br/>
+ ![image](https://user-images.githubusercontent.com/110823714/211885377-91c7c2d4-ee35-48a6-a7ea-ac6128507957.png)
+ <Br/>summary of machine learning model.<Br/>
  ![image](https://user-images.githubusercontent.com/110823714/211826647-08e5233a-3023-4918-9615-b280147f6336.png)
+ <Br/>Linear regression line plotting over datapoints.<Br/>
 
 
 Hope you enjoy it !!!
