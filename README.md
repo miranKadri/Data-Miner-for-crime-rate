@@ -16,5 +16,7 @@ You are now ready to run the program and test it. We have a few options given to
 
 
 3. Analysis: This mode does an extensive analysis on the dataset collected and can be only appied once you are done scraping the data. This process can be started by typing `python data_miner.py --analysis`. This will show data description, relation bewteen all the features with the target, based on the relations it will also give insights, plot out graphs for all the features, develop a predctive model and show the metrics of it, and finally plot a regression line through data points for all features to show if any predictive model could created or not.
+ ![image](https://user-images.githubusercontent.com/110823714/211826647-08e5233a-3023-4918-9615-b280147f6336.png)
+
 
 Hope you enjoy it !!!
